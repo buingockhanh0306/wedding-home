@@ -4,7 +4,6 @@ export const demos = [
     url: 'https://wedding-demo-01.vercel.app',
     title: 'Mẫu 1 — Cổ Tích Lãng Mạn',
     description: 'Thiết kế cổ điển, animation mượt, phù hợp thiệp truyền thống.',
-    preview: '/previews/header-bg.jpg',
     vibe: {
       label: 'Classic',
       tagline: 'Đen trắng · truyền thống',
@@ -22,7 +21,6 @@ export const demos = [
     url: 'https://wedding-demo-02.vercel.app',
     title: 'Mẫu 2 — Hoa Văn Cổ Điển',
     description: 'Phong cách lãng mạn với slider ảnh và lịch cưới.',
-    preview: '/previews/slide_img/slide_01.jpg',
     vibe: {
       label: 'Romantic',
       tagline: 'Slider ảnh · lãng mạn',
@@ -40,7 +38,6 @@ export const demos = [
     url: 'https://wedding-demo-03.vercel.app',
     title: 'Mẫu 3 — Trẻ Trung Hiện Đại',
     description: 'Bố cục tinh tế, typography sang trọng.',
-    preview: '/previews/slide_img/slide_01.jpg',
     vibe: {
       label: 'Youthful',
       tagline: 'Neon · gradient sống động',
@@ -58,7 +55,6 @@ export const demos = [
     url: 'https://wedding-demo-04.vercel.app',
     title: 'Mẫu 4 — Vườn Xuân Lãng Mạn',
     description: 'Thiết kế hiện đại, tối ưu mobile.',
-    preview: '/previews/slide_img/slide_02.jpg',
     vibe: {
       label: 'Garden',
       tagline: 'Sage green · blush pink',
@@ -76,7 +72,6 @@ export const demos = [
     url: 'https://wedding-demo-05.vercel.app',
     title: 'Mẫu 5 — Sang Trọng Hoàng Kim',
     description: 'Họa tiết hoa, tone ấm áp cho tiệc cưới.',
-    preview: '/previews/our_img/img1.jpg',
     vibe: {
       label: 'Luxury Gold',
       tagline: 'Art deco · champagne',
@@ -94,7 +89,6 @@ export const demos = [
     url: 'https://wedding-demo-06.vercel.app',
     title: 'Mẫu 6 — Làn Gió Đại Dương',
     description: 'Tối giản, tập trung nội dung chính.',
-    preview: '/previews/our_img/img2.jpg',
     vibe: {
       label: 'Ocean Breeze',
       tagline: 'Xanh biển · thanh lịch',
@@ -112,7 +106,6 @@ export const demos = [
     url: 'https://wedding-demo-07.vercel.app',
     title: 'Mẫu 7 — Mộc Mạc Hoài Cổ',
     description: 'Kể chuyện tình yêu qua từng section.',
-    preview: '/previews/our_img/img3.jpg',
     vibe: {
       label: 'Rustic Vintage',
       tagline: 'Ấm áp · hoài cổ',
@@ -130,7 +123,6 @@ export const demos = [
     url: 'https://wedding-demo-08.vercel.app',
     title: 'Mẫu 8 — Tối Giản Rượu Vang',
     description: 'Nhấn mạnh album ảnh cặp đôi.',
-    preview: '/previews/our_img/img4.jpg',
     vibe: {
       label: 'Minimal',
       tagline: 'Tối giản · đỏ accent',
@@ -148,7 +140,6 @@ export const demos = [
     url: 'https://wedding-demo-09.vercel.app',
     title: 'Mẫu 9 — Mộng Mơ Tím Pastel',
     description: 'Layout cao cấp, hiệu ứng parallax.',
-    preview: '/previews/our_img/img5.jpg',
     vibe: {
       label: 'Dreamy Purple',
       tagline: 'Tím hồng · fantasy',
@@ -166,7 +157,6 @@ export const demos = [
     url: 'https://wedding-demo-10.vercel.app',
     title: 'Mẫu 10 — Vườn Hồng Tươi Mát',
     description: 'Không khí lễ hội, countdown ngày cưới.',
-    preview: '/previews/our_img/img6.jpg',
     vibe: {
       label: 'Spring Fresh',
       tagline: 'Teal · hồng pastel',
@@ -185,7 +175,6 @@ export const demos = [
     url: 'https://wedding-demo-11.vercel.app',
     title: 'Mẫu 11 — Đêm Sao Lãng Mạn',
     description: 'Năng lượng trẻ trung, màu neon hiện đại và layout phá cách.',
-    preview: '/previews/slide_img/slide_01.jpg',
     vibe: {
       label: 'Neon Night',
       tagline: 'Cyber glow · xanh tím hồng',
@@ -203,7 +192,6 @@ export const demos = [
     url: 'https://wedding-demo-12.vercel.app',
     title: 'Mẫu 12 — Sang Trọng Đen Vàng',
     description: 'Phong cách tối giản kiểu tạp chí, sạch và tinh tế.',
-    preview: '/previews/our_img/img1.jpg',
     vibe: {
       label: 'Editorial',
       tagline: 'Monochrome · accent lime',
@@ -221,7 +209,6 @@ export const demos = [
     url: 'https://wedding-demo-13.vercel.app',
     title: 'Mẫu 13 — Hoàng Hôn Hồng Phấn',
     description: 'Màu cam tím rực rỡ, cảm giác vintage nhưng năng động.',
-    preview: '/previews/our_img/img2.jpg',
     vibe: {
       label: 'Sunset Retro',
       tagline: 'Cam tím · playful',
@@ -239,7 +226,6 @@ export const demos = [
     url: 'https://wedding-demo-14.vercel.app',
     title: 'Mẫu 14 — Hoa Nở Tươi Mới',
     description: 'Giao diện trong suốt, thanh lịch với sắc xanh biển.',
-    preview: '/previews/our_img/img3.jpg',
     vibe: {
       label: 'Ocean Glass',
       tagline: 'Glassmorphism · ocean blue',
@@ -257,7 +243,6 @@ export const demos = [
     url: 'https://wedding-demo-15.vercel.app',
     title: 'Mẫu 15 — Nâu Đất Thanh Lịch',
     description: 'Tone earthy ấm áp, layout như tạp chí cưới cao cấp.',
-    preview: '/previews/our_img/img4.jpg',
     vibe: {
       label: 'Botanical',
       tagline: 'Earth tone · classic serif',
@@ -275,7 +260,6 @@ export const demos = [
     url: 'https://wedding-demo-16.vercel.app',
     title: 'Mẫu 16 — Đêm Huyền Bí Tím Than',
     description: 'Chất liệu cyberpunk nổi bật cho cặp đôi cá tính.',
-    preview: '/previews/our_img/img5.jpg',
     vibe: {
       label: 'Cyber Pop',
       tagline: 'Neon grid · future vibe',
@@ -293,7 +277,6 @@ export const demos = [
     url: 'https://wedding-demo-17.vercel.app',
     title: 'Mẫu 17 — Tối Giản Hồng Phấn',
     description: 'Nhẹ nhàng, hiện đại, phù hợp cặp đôi thích sự tinh giản.',
-    preview: '/previews/our_img/img6.jpg',
     vibe: {
       label: 'Nordic',
       tagline: 'Pastel cool · airy',
@@ -311,7 +294,6 @@ export const demos = [
     url: 'https://wedding-demo-18.vercel.app',
     title: 'Mẫu 18 — Vàng Champagne Hồng Phấn',
     description: 'Sang trọng cổ điển với tông đen vàng champagne.',
-    preview: '/previews/slide_img/slide_02.jpg',
     vibe: {
       label: 'Luxe Gold',
       tagline: 'Dark luxe · gold accent',
@@ -329,7 +311,6 @@ export const demos = [
     url: 'https://wedding-demo-19.vercel.app',
     title: 'Mẫu 19 — Hoa Ngọt Ngào Pastel',
     description: 'Sắc màu vui tươi, trẻ trung, nhiều điểm nhấn thị giác.',
-    preview: '/previews/our_img/img1.jpg',
     vibe: {
       label: 'Candy Pop',
       tagline: 'Playful · pastel pop',
@@ -347,7 +328,6 @@ export const demos = [
     url: 'https://wedding-demo-20.vercel.app',
     title: 'Mẫu 20 — Hoàng Hôn Hổ Phách',
     description: 'Mạnh mẽ và hiện đại với tông đỏ cam nổi bật.',
-    preview: '/previews/our_img/img2.jpg',
     vibe: {
       label: 'Modern Red',
       tagline: 'Bold red · angular layout',

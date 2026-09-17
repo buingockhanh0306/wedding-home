@@ -1,11 +1,13 @@
 <script setup>
+import { provide } from 'vue'
 import AppHeader from '@/components/AppHeader.vue'
 import DemoCarousel from '@/components/DemoCarousel.vue'
 import ContactSection from '@/components/ContactSection.vue'
 import { useScrollReveal } from '@/composables/useScrollReveal'
 import { heroBanner } from '@/data/site'
 
-useScrollReveal()
+const { refresh: refreshReveal } = useScrollReveal()
+provide('refreshReveal', refreshReveal)
 
 function scrollToTemplates() {
   document.querySelector('#templates')?.scrollIntoView({ behavior: 'smooth' })
